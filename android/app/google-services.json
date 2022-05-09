@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "752579422300",
+    "project_id": "miniproyhuellitas",
+    "storage_bucket": "miniproyhuellitas.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:752579422300:android:81bbb0787e6a1519b71e99",
+        "android_client_info": {
+          "package_name": "com.codeball.huellitas"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "752579422300-ul8ev95lo9j2s96o4ovvd42u6kar66d2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA5JCc8H_mVmcyQ3PO-1M6aTmbzEomrLEQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "752579422300-ul8ev95lo9j2s96o4ovvd42u6kar66d2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
